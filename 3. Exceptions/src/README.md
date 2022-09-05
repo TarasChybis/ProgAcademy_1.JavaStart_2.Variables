@@ -30,17 +30,7 @@ If the student is not found, a custom exception should be thrown).<br>
 
 <p>
 <b> home_work_3_2_OOP </b><br>
-1) Create a TextTransformer class.<br>
-Method:<br>
-- String transform(String text) - Converts text to upper case. Example hello> HELLO<br>
-2) Create the class InverseTransformer as a subclass of TextTransformer. Override the String method transform(String text) - Reverses the text. Example hello > olleh<br>
-3) Create the class UpDownTransformer as a subclass of TextTransformer. Override the String method transform(String text) - Every odd letter is large, even is small. Example hello > HeLlO<br>
-4) Create a TextSaver class.<br>
-Fields:<br>
-- TextTransformer transformer<br>
-- File file<br>
-Methods:<br>
-- void saveTextToFile(String text) - First, one of the transformers (transformer field) converts a string, then save it to a file (file field).
+Implement a method to sort an array of students by last name. Use it in the toString() method of the Group class to get a list of students in alphabetical order.
 </p>
 
 <p>
