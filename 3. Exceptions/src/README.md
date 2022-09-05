@@ -43,5 +43,5 @@ Implement exceptions for entering prices from a file.
 
 <p>
 <b> lesson_3_2_OOP </b><br>
-Implement exceptions for entering prices from a file.
+Implement enumerations 'Enums'.
 </p>
