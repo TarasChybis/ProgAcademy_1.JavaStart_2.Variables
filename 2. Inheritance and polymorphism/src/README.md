@@ -22,20 +22,18 @@ Methods:<br>
 </p>
 
 <p>
-<b> home_work_1_2_OOP </b><br>
-Describe the Triangle class.<br>
-As properties, take the lengths of the sides of the triangle.<br>
-Implement a method that will return the area of this triangle.<br>
-Create some objects of this class and test them.
-</p>
-
-<p>
-<b> home_work_1_3_OOP </b><br>
-Create a class 'Phone' (Phone) one of properties should be its number.<br>
-Create a 'Network' class (mobile operator network). The Phone class should describe the following methods:<br>
-- Registration in the mobile operator's network;<br>
-- A method that implements an outgoing call. This method takes one parameter (describing the mobile phone number). The logic of this method is as follows: if the current phone has not been registered in the network, then terminate the method with a message about it. If the current phone has been registered and the network also has a phone to which the call is being made, then call the incoming call method on that phone. If the phone to which you are making a call is not registered in the network, then terminate the method with a message about it.<br>
-- The method that implements the incoming call. It accepts a parameter in the form of a number from which a call was made to the current one. Display a message like a number such and such is calling you.
+<b> home_work_2_2_OOP </b><br>
+1) Create a TextTransformer class.<br>
+Method:<br>
+- String transform(String text) - Converts text to upper case. Example hello> HELLO<br>
+2) Create the class InverseTransformer as a subclass of TextTransformer. Override the String method transform(String text) - Reverses the text. Example hello > olleh<br>
+3) Create the class UpDownTransformer as a subclass of TextTransformer. Override the String method transform(String text) - Every odd letter is large, even is small. Example hello > HeLlO<br>
+4) Create a TextSaver class.<br>
+Fields:<br>
+- TextTransformer transformer<br>
+- File file<br>
+Methods:<br>
+- void saveTextToFile(String text) - First, one of the transformers (transformer field) converts a string, then save it to a file (file field).
 </p>
 
 <p>
