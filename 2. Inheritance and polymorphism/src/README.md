@@ -1,8 +1,24 @@
 <h1> 2. Inheritance and polymorphism </h1>
 
 <p>
-<b> home_work_1_1_OOP </b><br>
-Create a custom class to describe a product (let's say it's a front for an online store). As product properties, you can use the price value, description, weight of the product. Create a couple of instances of your class and test them out.
+<b> home_work_2_1_OOP </b><br>
+1) Create an Animal class.<br>
+It should have fields:<br>
+- String ration (what the animal eats)<br>
+- String color (what color it is)<br>
+- int weight (weight)<br>
+Methods:<br>
+- Standard (getters and setters, toString(), etc.)<br>
+- String getVoice() (vote)<br>
+- void eat() (eat)<br>
+- void sleep() (sleep)<br>
+2) Create classes Cat, Dog as subclasses of Animal. Add a new String name field. Redefine getVoice(), eat(), sleep() methods.<br>
+3) Create a Veterinarian class.<br>
+Fields:<br>
+- String name<br>
+Methods:<br>
+- Standard<br>
+- void treatment (Animal animal). (Treatment of an animal. Cats and dogs can be treated).
 </p>
 
 <p>
