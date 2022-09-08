@@ -1,29 +1,4 @@
-//1) Create a Human class.
-//Fields:
-//- String name (name).
-//- String lastName (last name).
-//- Gender gender (gender. Implement using Enum).
-//Methods:
-//- Standard (getters and setters, toString(), etc.).
-//2) Create a class Student as a subclass of Human.
-//Fields:
-//- int id (study number).
-//- String groupName (the name of the group where he studies).
-//Methods:
-//- Standard (getters and setters, toString(), etc.).
-//3) Create classes GroupOverflowException, StudentNotFoundException (successors of Exception) as custom exceptions.
-//4) Create a class Group.
-//Fields:
-//- String groupName (name).
-//- Student[] students = new Student[10]; (an array of 10 students).
-//Methods:
-//- Standard (getters and setters, toString(), etc.).
-//- public void addStudent(Student student) throws GroupOverflowException (method of adding a student to a group. If 11 students are added, a custom exception should be thrown).
-//- public Student searchStudentByLastName(String lastName) throws StudentNotFoundException (method to search for a student in a group.
-//If the student is not found, a custom exception should be thrown).
-//- public boolean removeStudentByID(int id) (method of removing a student by grade number, return true if there was such a student and he was removed and false otherwise).
-//5) Extend the implementation of the Students group with the ability to sort the array of students by last name. To do this, add the sortStudentsByLastName() method to the Group class.
-//6) Create a separate class that implements reading student characteristics from the keyboard (first name, last name, etc.). Create and return a student based on the read data. Use the methods of this class to read and add a student to a group.
+//Create a separate class that implements reading student characteristics from the keyboard (first name, last name, etc.). Create and return a student based on the read data. Use the methods of this class to read and add a student to a group.
 
 package home_work_4_2_OOP;
 
