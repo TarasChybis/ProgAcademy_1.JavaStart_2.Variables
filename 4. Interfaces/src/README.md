@@ -14,10 +14,10 @@ Create a separate class that implements reading student characteristics from the
 <b> home_work_4_3_OOP </b><br>
 Declare an interface:<br>
 <br>
-&ensp;	public interface CSVConverter{<br>
-&ensp;&ensp;	public String toCSVString();<br>
-&ensp;&ensp;	public Student fromCSVString(String str);<br>
-&ensp;	}<br>
+&emsp;	public interface CSVConverter{<br>
+&emsp;&emsp;	public String toCSVString();<br>
+&emsp;&emsp;	public Student fromCSVString(String str);<br>
+&emsp;	}<br>
 <br>	
 The Student class must implement this interface. The implementation logic is as follows - based on the Student, create a line with its CSV representation, and vice versa, create a Student based on this line.
 </p>
