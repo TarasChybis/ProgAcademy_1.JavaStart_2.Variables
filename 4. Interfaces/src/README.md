@@ -11,6 +11,18 @@ Create a separate class that implements reading student characteristics from the
 </p>
 
 <p>
+<b> home_work_4_3_OOP </b><br>
+Declare an interface:<br>
+<br>
+	public interface CSVConverter{<br>
+		public String toCSVString();<br>
+		public Student fromCSVString(String str);<br>
+	}<br>
+<br>	
+The Student class must implement this interface. The implementation logic is as follows - based on the Student, create a line with its CSV representation, and vice versa, create a Student based on this line.
+</p>
+
+<p>
 <b> lesson_4_1_OOP </b><br>
 Sorting an array of references of Type Cat.
 </p>
