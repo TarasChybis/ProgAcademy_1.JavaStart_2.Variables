@@ -15,7 +15,7 @@ Implement a separate GroupFileStorage class that will have the following methods
 
 <p>
 <b> home_work_5_3_OOP </b><br>
-
+Implement a service to compare files for identity. Files are considered identical if they are byte-by-byte equal. Files of different lengths, or files in which at least one byte is different, are considered different.
 </p>
 
 <p>
