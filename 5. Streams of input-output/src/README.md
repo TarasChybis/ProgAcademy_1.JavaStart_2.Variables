@@ -20,7 +20,7 @@ Implement a service to compare files for identity. Files are considered identica
 
 <p>
 <b> home_work_5_4_OOP </b><br>
-
+Complete the resulting service with the ability to transfer file addresses in key mode when the application is launched from the command line.
 </p>
 
 <p>
