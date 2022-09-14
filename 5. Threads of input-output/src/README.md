@@ -1,4 +1,4 @@
-<h1> 5. Streams of input-output </h1>
+<h1> 5. Threads of input-output </h1>
 
 <p>
 <b> home_work_5_1_OOP </b><br>
