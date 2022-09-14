@@ -1,4 +1,4 @@
-<h1> 6. Multithreading I </h1>
+<h1> 6. Multithreading </h1>
 
 <p>
 <b> home_work_6_1_OOP </b><br>
