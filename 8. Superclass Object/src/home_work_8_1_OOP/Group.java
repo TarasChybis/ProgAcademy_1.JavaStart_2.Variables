@@ -2,6 +2,7 @@ package home_work_8_1_OOP;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.Objects;
 
 public class Group {
 
@@ -99,4 +100,19 @@ public class Group {
 		// TODO Auto-generated method stub
 		
 	}
+	
+	@Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null) return false;
+        if (getClass()!=o.getClass()) return false;
+        Group group = (Group) o;
+        return Objects.equals(getGroupName(), group.getGroupName()) &&
+               Objects.equals(getStudens(), group.getStudens());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getGroupName(), getStudens());
+    }
 }
