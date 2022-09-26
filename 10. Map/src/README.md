@@ -23,7 +23,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;*&ensp;&ensp;&ensp;* <br>
 А&ensp;&ensp;&ensp;*******<br>
 &ensp;&ensp;&ensp;*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
-&ensp;&ensp;*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
+&ensp;&ensp;*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
 Ваша программа должна дать возможность вывода произвольного текста на экран в виде его ASCII-art представления.
 </p>
 
