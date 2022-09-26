@@ -18,12 +18,12 @@
 <p>
 <b> home_work_10_4_OOP </b><br>
 Реализуйте программу, которая сопоставит каждой букве ее представление в виде ASCII - art, например:<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
-&ensp;&ensp;&ensp;&ensp;&ensp;*&ensp;*<br>
-&ensp;&ensp;&ensp;&ensp;*&ensp;&ensp;&ensp;* <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*&ensp;*<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;*&ensp;&ensp;&ensp;* <br>
 А&ensp;&ensp;&ensp;*******<br>
-&ensp;&ensp;*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
-&ensp;*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
+&ensp;&ensp;&ensp;*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
+&ensp;&ensp;*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*<br>
 Ваша программа должна дать возможность вывода произвольного текста на экран в виде его ASCII-art представления.
 </p>
 
