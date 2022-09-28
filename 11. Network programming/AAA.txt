@@ -1,0 +1,19 @@
+https://github.com/discourse/discourse version d6b53b688dd40d6f86ea3928976611950097694b
+https://q.prog.kiev.ua/uploads/default/optimized/1X/b359bbb3d48afb8ca160d146dea914264087e7d2_2_32x32.png
+https://q.prog.kiev.ua/uploads/default/optimized/1X/b359bbb3d48afb8ca160d146dea914264087e7d2_2_180x180.png
+https://q.prog.kiev.ua/login
+http://schema.org
+https://q.prog.kiev.ua
+https://q.prog.kiev.ua/search?q={search_term_string}
+https://q.prog.kiev.ua/opensearch.xml
+https://q.prog.kiev.ua/uploads/default/original/1X/b359bbb3d48afb8ca160d146dea914264087e7d2.png
+https://q.prog.kiev.ua/uploads/default/original/1X/b359bbb3d48afb8ca160d146dea914264087e7d2.png
+https://q.prog.kiev.ua/login
+https://q.prog.kiev.ua/login
+https://q.prog.kiev.ua/uploads/default/original/1X/b359bbb3d48afb8ca160d146dea914264087e7d2.png
+http://schema.org/SiteNavigationElement
+http://schema.org/SiteNavigationElement
+http://schema.org/SiteNavigationElement
+http://schema.org/SiteNavigationElement
+http://schema.org/SiteNavigationElement
+http://www.discourse.org
